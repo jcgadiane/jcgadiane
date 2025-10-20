@@ -1,5 +1,3 @@
-# 👋 Hi, I'm James Christian Gadiane  
-
 🚀 **Software Developer | Backend Engineer**  
 🎓 **Bachelor of Science in Computer Science — Major in Artificial Intelligence and Mobile App Development**  
 
